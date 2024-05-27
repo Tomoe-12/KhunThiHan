@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vite,vue,vscode,materialuigit,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vite,vue,vscode,materialui,git,linux" />
     <img src="https://skillicons.dev/icons?i=javascript,mongodb,express,react,nodejs,firebase,mongodb,mysql,npm,postman,ubuntu" /><br>
 </div>
 
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tomoe-12/tomoe-12/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/khunthihan/khunthihan/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
