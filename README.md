@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React, Node.js , firebase**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Tomoe-12)**
 
 ⚡ Fun fact **I am still a single , here my phone number - 09 785 146 940 **
 
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/khunthihan/khunthihan/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KhunThiHan/KhunThiHan/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
